@@ -1,0 +1,1 @@
+These scripts are intended to be used to document password usage information in AD, to read more about how to use the scripts, you can read more about them on my blog at: http://www.xipher.dk/WordPress/?p=846
